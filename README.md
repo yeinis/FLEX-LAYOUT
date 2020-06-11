@@ -1,1 +1,7 @@
-Clase de FLEXBOX acamica
+## CLASE DE FLEXBOX
+
+proyecto de flexbpx
+
+```
+paractica
+```
